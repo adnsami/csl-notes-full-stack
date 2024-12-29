@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c062c31471dee760",
+        "id": "2f7d2495f5b921be",
         "type": "tabs",
         "children": [
           {
-            "id": "90e8e99d780126fc",
+            "id": "45885b8d48498af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a7247d277f9506b",
+  "active": "45885b8d48498af2",
   "lastOpenFiles": [
     "Pasted image 20241218084940.png",
     "Pasted image 20241218082806.png",
